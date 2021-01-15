@@ -1,0 +1,7 @@
+a=input('first metrix')
+b=input('second metrix')
+fprintf('the product of %d and %d is %d',a,b,a*b)
+
+fprintf('the sum of %d and %d is %d',a,b,a+b)
+fprintf('the difference of %d and %d is %d',a,b,a-b)
+fprintf('the quotient of %d and %d is %d',a,b,a\b)

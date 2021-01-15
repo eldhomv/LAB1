@@ -1,0 +1,4 @@
+xl=cos(.2*pi*2);
+subplot(2,2,1),stem(n,x);
+xlabel('n'),ylabel('x(n)');
+title('sinusoidal sequence')
